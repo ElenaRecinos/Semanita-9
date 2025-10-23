@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "semanita9", "semanita9\semanita9.csproj", "{72ACDB3A-AC20-49EE-84B3-EFB6BBB9AD6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{A0C16E77-C20D-4B41-8E31-8071ADD167BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logica", "Logica\Logica.csproj", "{C87ABFC5-D68D-42C4-9D86-BFB521FB545B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72ACDB3A-AC20-49EE-84B3-EFB6BBB9AD6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72ACDB3A-AC20-49EE-84B3-EFB6BBB9AD6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72ACDB3A-AC20-49EE-84B3-EFB6BBB9AD6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72ACDB3A-AC20-49EE-84B3-EFB6BBB9AD6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0C16E77-C20D-4B41-8E31-8071ADD167BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0C16E77-C20D-4B41-8E31-8071ADD167BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0C16E77-C20D-4B41-8E31-8071ADD167BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0C16E77-C20D-4B41-8E31-8071ADD167BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87ABFC5-D68D-42C4-9D86-BFB521FB545B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87ABFC5-D68D-42C4-9D86-BFB521FB545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87ABFC5-D68D-42C4-9D86-BFB521FB545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87ABFC5-D68D-42C4-9D86-BFB521FB545B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7EC1EFB4-1FA9-47F9-9250-6626B0964F1D}
+	EndGlobalSection
+EndGlobal

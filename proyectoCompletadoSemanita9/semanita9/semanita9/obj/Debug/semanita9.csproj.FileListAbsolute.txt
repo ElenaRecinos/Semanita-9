@@ -1,0 +1,14 @@
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\bin\Debug\semanita9.exe.config
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\bin\Debug\semanita9.exe
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\bin\Debug\semanita9.pdb
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\bin\Debug\Logica.dll
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\bin\Debug\Logica.pdb
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.csproj.AssemblyReference.cache
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.Form1.resources
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.Properties.Resources.resources
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.csproj.GenerateResource.cache
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.csproj.CoreCompileInputs.cache
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.csproj.Up2Date
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.exe
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.pdb
+C:\Users\Elena\Desktop\proyectoCompletadoSemanita9\semanita9\semanita9\obj\Debug\semanita9.exe.config
